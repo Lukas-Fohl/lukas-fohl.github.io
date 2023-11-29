@@ -11,40 +11,40 @@ class text{
 }
 
 let _Jesus1 = new text(
-    "• hier könnte was tolles über Jesus stehen \n • hier könnte was tolles über Jesus stehen \n • hier könnte was tolles über Jesus stehen",
-    "• hier könnte was tolles über Jesus stehen \n • hier könnte was tolles über Jesus stehen \n • hier könnte was tolles über Jesus stehen",
-    "• hier könnte was tolles über Jesus stehen \n • hier könnte was tolles über Jesus stehen \n • hier könnte was tolles über Jesus stehen",
-    "./Jesus.png",
+    "• Jesus Auffassung und Verkündigung der Köngisherrschaft: \n    • Königsherrschaft Gotes als Zukünftiges \n       Ereignis jedoch schon in der \n       Gegenwart angebrochen \n    • Gemeinschaft zwischen Mensch und \n       Gott wird mit Anbruch des 2. Äons \n       wiederhergestellt --> Prozess der \n       Wiederherstellung",
+    "• Jesus Auffassung und Verkündigung der Köngisherrschaft: \n    • Königsherrschaft Gotes als Zukünftiges \n       Ereignis jedoch schon in der \n       Gegenwart angebrochen \n \n    • Gemeinschaft zwischen Mensch und \n       Gott wird mit Anbruch des 2. Äons \n       wiederhergestellt --> Prozess der \n       Wiederherstellung",
+    "",
+    "./Download.jpeg",
     true,
-    true,
-    true
+    false,
+    false
 );
 
 let _Jesus2 = new text(
-    "hier könnte auch was tolles über Jesus stehen",
-    "hier könnte auch was tolles über Jesus stehen",
-    "hier könnte auch was tolles über Jesus stehen",
-    "./Jesus.png",
+    "• Könnigsherrschaft wird ins 1. und 2. on geteilt \n• Mit Jesus beginnt das 2. Äon \n      -> Die Vollendung des \n     Heils, der Gottesherrschaft, steht noch aus\n     (Wunder von Jesus sind Zeugnis)",
+    "Gegenwärtiges Äon:\n    • Gott wird Herr über Israel \n       -> Herrscher verborgen \n    • Volk Gottes ist in Knetschaft \n       -> Güte und \"Heil\" Gottes wird \n       unterdrückt",
+    "Zukünftiges Äon:\n    • Anbruch von neuem Äon befreit Volk Israels \n    • Ganze Herrlichkeit wird offenbart und erstreckt sich \n       über die ganze Welt \n    • Königsherrschaft Gottes wird Allumfassend",
+    "./Download (1).jpeg",
     true,
     true,
     true
 );
 
 let _Jesus3 = new text(
-    "mehr Jesus",
-    "mehr Jesus",
-    "mehr Jesus",
-    "./Jesus.png",
+    "𝗘𝗿𝗻𝘁𝗲: Die Stunde der Ernte ist gekommen. Sie ist reif(Mt 9,37 par.)",
+    "𝗡𝗲𝘂𝗲𝗿 𝗪𝗲𝗶𝗻: Der neue Wein darf nicht in alte Schäuche gegossen werden; er zerriss sie(Mk 2,22 par.)",
+    "𝗡𝗲𝘂𝗲𝘀 𝗧𝘂𝗰𝗵: Niemand näht ein Stück ungewalktes neues Ruch auf ein altes Kleii; das eingesetzte neue Stück riss weg (Mk 2,21)",
+    "./2017_05_Bergpredikt_Tielbild_Bloch-SermonOnTheMoun_PD.jpg",
     true,
     true,
     true
 );
 
 let _Jesus4 = new text(
-    "noch mehr Jesus",
-    "noch mehr Jesus",
-    "noch mehr Jesus",
-    "./Jesus.png",
+    "● endgültiges Heilshandeln Gottes ist mit neuem Äon angebrochen \n ● bringt sowohl Segen als auch Verderben \n → Schuld wird erst durch Gnade Gottes zur Schuld \n → größtes Heil bringt gleichzeitig größtes Unheil",
+    "● Aufruf von Jesus zur Umkehr → Wendung zu Gott und Gottesgericht für begrenztes Heilsangebot \n ● Umkehr soll nicht aus Angst vor Gottesgericht erfolgen, sondern aus Erfahrung der Güte und Liebe Gottes \n→ an Gnade entsteht Umkehr",
+    "● neues Gottesverhältnis mit neuem Gottesrecht verbunden \n → ohne unbedingten Einsatz und unbedingte Entschlossenheit in der Beziehung zu Gott und Mitmenschen ist Heilsanspruch verloren",
+    "./Conversion_of_Saint_Paul_(Michelangelo_Buonarroti).jpg",
     true,
     true,
     true
