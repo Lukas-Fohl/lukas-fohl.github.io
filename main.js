@@ -14,7 +14,7 @@ let _Jesus1 = new text(
     "• Jesus Auffassung und Verkündigung der Köngisherrschaft: \n    • Königsherrschaft Gottes als Zukünftiges \n       Ereignis jedoch schon in der \n       Gegenwart angebrochen \n    • Gemeinschaft zwischen Mensch und \n       Gott wird mit Anbruch des 2. Äons \n       wiederhergestellt --> Prozess der \n       Wiederherstellung",
     "",
     "",
-    "./Download.jpeg",
+    "./god_the_father.webp",
     true,
     false,
     false
@@ -24,7 +24,7 @@ let _Jesus2 = new text(
     "• Königsherrschaft wird ins 1. und 2. on geteilt \n• Mit Jesus beginnt das 2. Äon \n      -> Die Vollendung des Heils, \n     der Gottesherrschaft, steht noch aus\n     (Wunder von Jesus sind Zeugnis)",
     "Gegenwärtiges Äon:\n    • Gott wird Herr über Israel \n       -> Herrscher verborgen \n    • Volk Gottes ist in Knechtschaft \n       -> Güte und \"Heil\" Gottes wird \n       unterdrückt",
     "Zukünftiges Äon:\n    • Anbruch von neuem Äon befreit Volk Israels \n    • Ganze Herrlichkeit wird offenbart und erstreckt sich \n       über die ganze Welt \n    • Königsherrschaft Gottes wird Allumfassend",
-    "./Download (1).jpeg",
+    "./83257645-jpg-106-768xauto.jpg",
     true,
     true,
     true
@@ -34,7 +34,7 @@ let _Jesus3 = new text(
     "𝗘𝗿𝗻𝘁𝗲: Die Stunde der Ernte ist gekommen. Sie ist reif(Mt 9,37 par.)",
     "𝗡𝗲𝘂𝗲𝗿 𝗪𝗲𝗶𝗻: Der neue Wein darf nicht in alte Schläuche gegossen werden; er zerriss sie(Mk 2,22 par.)",
     "𝗡𝗲𝘂𝗲𝘀 𝗧𝘂𝗰𝗵: Niemand näht ein Stück ungewalktes neues Ruch auf ein altes Kleid; das eingesetzte neue Stück riss weg (Mk 2,21)",
-    "./2017_05_Bergpredikt_Tielbild_Bloch-SermonOnTheMoun_PD.jpg",
+    "./bergpredigt.jpg",
     true,
     true,
     true
@@ -144,8 +144,8 @@ function animate(textClass){
     
     
     setTimeout(function() {
+        e4.src = `./${textClass.img_path}`;
         setTimeout(function() {
-            e4.src = `./${textClass.img_path}`;
         }, 30);
         
         if(textClass.isThere_1===true){
