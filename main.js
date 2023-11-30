@@ -11,7 +11,7 @@ class text{
 }
 
 let _Jesus1 = new text(
-    "• Jesus Auffassung und Verkündigung der Köngisherrschaft: \n    • Königsherrschaft Gottes als Zukünftiges \n       Ereignis jedoch schon in der \n       Gegenwart angebrochen \n    • Gemeinschaft zwischen Mensch und \n       Gott wird mit Anbruch des 2. Äons \n       wiederhergestellt --> Prozess der \n       Wiederherstellung",
+    "• Jesus Auffassung und Verkündigung der Köngisherrschaft: \n    • Königsherrschaft Gottes als Zukünftiges \n       Ereignis jedoch schon in der \n       Gegenwart angebrochen \n    • Gemeinschaft zwischen Mensch und \n       Gott wird mit Anbruch des 2. Äons \n       wiederhergestellt -> Prozess der \n       Wiederherstellung",
     "",
     "",
     "./god_the_father.webp",
@@ -41,9 +41,9 @@ let _Jesus3 = new text(
 );
 
 let _Jesus4 = new text(
-    "● endgültiges Heilshandeln Gottes ist mit neuem Äon angebrochen \n ● bringt sowohl Segen als auch Verderben \n → Schuld wird erst durch Gnade Gottes zur Schuld \n → größtes Heil bringt gleichzeitig größtes Unheil",
-    "● Aufruf von Jesus zur Umkehr → Wendung zu Gott und Gottesgericht für begrenztes Heilsangebot \n ● Umkehr soll nicht aus Angst vor Gottesgericht erfolgen, sondern aus Erfahrung der Güte und Liebe Gottes \n→ an Gnade entsteht Umkehr",
-    "● neues Gottesverhältnis mit neuem Gottesrecht verbunden \n → ohne unbedingten Einsatz und unbedingte Entschlossenheit in der Beziehung zu Gott und Mitmenschen ist Heilsanspruch verloren",
+    "● endgültiges Heilshandeln Gottes ist mit \n    neuem Äon angebrochen \n ● bringt sowohl Segen als auch Verderben \n    → Schuld wird erst durch Gnade Gottes zur \n     Schuld \n     → größtes Heil bringt gleichzeitig größtes \n     Unheil",
+    "● Aufruf von Jesus zur Umkehr \n    → Wendung zu Gott und Gottesgericht \n    für begrenztes Heilsangebot \n ● Umkehr soll nicht aus Angst vor \n    Gottesgericht erfolgen, sondern aus \n    Erfahrung der Güte und Liebe Gottes \n    → an Gnade entsteht Umkehr",
+    "● neues Gottesverhältnis mit neuem Gottesrecht \n    verbunden \n     → ohne unbedingten Einsatz und unbedingte \n    Entschlossenheit in der Beziehung zu Gott und \n    Mitmenschen ist Heilsanspruch verloren",
     "./Conversion_of_Saint_Paul_(Michelangelo_Buonarroti).jpg",
     true,
     true,
