@@ -43,7 +43,7 @@ let _Jesus3 = new text(
 let _Jesus4 = new text(
     "● endgültiges Heilshandeln Gottes ist mit \n    neuem Äon angebrochen \n ● bringt sowohl Segen als auch Verderben \n    → Schuld wird erst durch Gnade Gottes zur \n     Schuld \n     → größtes Heil bringt gleichzeitig größtes \n     Unheil",
     "● Aufruf von Jesus zur Umkehr \n    → Wendung zu Gott und Gottesgericht \n    für begrenztes Heilsangebot \n ● Umkehr soll nicht aus Angst vor \n    Gottesgericht erfolgen, sondern aus \n    Erfahrung der Güte und Liebe Gottes \n    → an Gnade entsteht Umkehr",
-    "● neues Gottesverhältnis mit neuem Gottesrecht \n    verbunden \n     → ohne unbedingten Einsatz und unbedingte \n    Entschlossenheit in der Beziehung zu Gott und \n    Mitmenschen ist Heilsanspruch verloren",
+    "● neues Gottesverhältnis mit neuem Gottesrecht \n    verbunden \n    → ohne unbedingten Einsatz und unbedingte \n    Entschlossenheit in der Beziehung zu Gott und \n    Mitmenschen ist Heilsanspruch verloren",
     "./Conversion_of_Saint_Paul_(Michelangelo_Buonarroti).jpg",
     true,
     true,
