@@ -31,8 +31,8 @@ let _Jesus2 = new text(
 );
 
 let _Jesus3 = new text(
-    "𝗘𝗿𝗻𝘁𝗲: Die Stunde der Ernte ist gekommen. Sie ist reif(Mt 9,37)",
-    "𝗡𝗲𝘂𝗲𝗿 𝗪𝗲𝗶𝗻: Der neue Wein darf nicht in alte Schläuche gegossen werden; er zerriss sie(Mk 2,22)",
+    "𝗘𝗿𝗻𝘁𝗲: Die Stunde der Ernte ist gekommen. Sie ist reif (Mt 9,37)",
+    "𝗡𝗲𝘂𝗲𝗿 𝗪𝗲𝗶𝗻: Der neue Wein darf nicht in alte Schläuche gegossen werden; er zerriss sie (Mk 2,22)",
     "𝗡𝗲𝘂𝗲𝘀 𝗧𝘂𝗰𝗵: Niemand näht ein Stück ungewalktes neues Ruch auf ein altes Kleid; das eingesetzte neue Stück riss weg (Mk 2,21)",
     "./bergpredigt.jpg",
     true,
