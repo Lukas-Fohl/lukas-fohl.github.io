@@ -21,7 +21,7 @@ let _Jesus1 = new text(
 );
 
 let _Jesus2 = new text(
-    "• Königsherrschaft wird ins 1. und 2. on geteilt \n• Mit Jesus beginnt das 2. Äon \n      -> Die Vollendung des Heils, \n     der Gottesherrschaft, steht noch aus\n     (Wunder von Jesus sind Zeugnis)",
+    "• Königsherrschaft wird ins 1. und 2. Äon geteilt \n• Mit Jesus beginnt das 2. Äon \n      -> Die Vollendung des Heils, \n     der Gottesherrschaft, steht noch aus\n     (Wunder von Jesus sind Zeugnis)",
     "Gegenwärtiges Äon:\n    • Gott wird Herr über Israel \n       -> Herrscher verborgen \n    • Volk Gottes ist in Knechtschaft \n       -> Güte und \"Heil\" Gottes wird \n       unterdrückt",
     "Zukünftiges Äon:\n    • Anbruch von neuem Äon befreit Volk Israels \n    • Ganze Herrlichkeit wird offenbart und erstreckt sich \n       über die ganze Welt \n    • Königsherrschaft Gottes wird Allumfassend",
     "./83257645-jpg-106-768xauto.jpg",
