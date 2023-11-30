@@ -78,15 +78,15 @@ function callAnimation(year){
         }
     }
     
-    function btnColor(id_){
-        var buttons = document.getElementsByTagName('button');
-        for (let i = 0; i < buttons.length; i++) {
-            if(buttons[i].id == id_){
-                buttons[i].style.border = "3px solid #fa9f5a";
-            }else{
-                buttons[i].style.border = "0px solid #000000";
-            }
+function btnColor(id_){
+    var buttons = document.getElementsByTagName('button');
+    for (let i = 0; i < buttons.length; i++) {
+        if(buttons[i].id == id_){
+            buttons[i].style.border = "3px solid #fa9f5a";
+        }else{
+            buttons[i].style.border = "0px solid #000000";
         }
+    }
 }
 
 function setText(textClass){
