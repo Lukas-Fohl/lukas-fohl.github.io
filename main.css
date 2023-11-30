@@ -82,6 +82,8 @@ body{
 
 button{
     display: table;
+
+    cursor: pointer;
 }
 
 .timeLineButton {
